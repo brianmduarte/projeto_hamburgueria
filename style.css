@@ -515,7 +515,10 @@ main #title_h1 {
     main {
         padding-top:30px;
         padding-right: 90px;
+        margin-left: 5%;
     }
+
+   
 
     aside {
         width:auto;
@@ -654,14 +657,16 @@ main #title_h1 {
 @media (max-width: 850px) {
     main #title_h1 {
         font-family: 'Bebas Neue', sans-serif;
-        text-align: center;
-        font-size: 55px;
+        font-size: 45px;
         margin-bottom: 45px;
         margin-top: 5px;
+        width: 100%;
         
     }
     
-
+    .burger-area-form {
+        margin-left: 0;
+    }
 }
 
 

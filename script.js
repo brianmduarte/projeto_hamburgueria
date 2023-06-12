@@ -220,6 +220,6 @@ function updateCart() {
     } else {
         c('aside').classList.remove('show');
         c('.burger-area').classList.remove('burger-area-form');
-        c('.aside').style.left = '100vw';
+        
 }}
 
